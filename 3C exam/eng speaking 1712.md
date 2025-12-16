@@ -51,7 +51,7 @@
 
 
 **核心詞彙 (Vocabulary):**
-o
+
 - **Renovation (翻新):** To repair and improve a building/room.
     
 - **Outdated (過時的):** Old-fashioned.
