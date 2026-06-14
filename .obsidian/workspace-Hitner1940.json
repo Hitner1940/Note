@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "de4fc7d6b174a7d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f2ed7e98f0e2fe9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3253a4ac9685f7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3C/Exam/Chem/13.3🧪 物質的分類.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13.3🧪 物質的分類"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9e68daa1f02a69b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cf9f4f8a5d65be5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab0746373e89099d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "d2eb894701dd3c75",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "05e559c7726feca6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "866cf9824dab8aee",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf91a34785cbd069",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7775073223970248",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3C/Chem/13.3🧪 物質的分類.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "13.3🧪 物質的分類 的反向連結"
+            }
+          },
+          {
+            "id": "d708288f4d33d113",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ea8d5686d9a2fe51",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "af99d9e9dbed9a1d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "所有屬性"
+            }
+          },
+          {
+            "id": "365953ab4e570d21",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3C/Chem/13.3🧪 物質的分類.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "13.3🧪 物質的分類 的大綱"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "bases:建立新的 base": false
+    }
+  },
+  "active": "ab0746373e89099d",
+  "lastOpenFiles": [
+    "3C/Exam/Phy/0806 exam.md",
+    "3C/Exam/Exam.md",
+    "3C/Exam",
+    "3C/Exam/Phy",
+    "3C/Exam/Chinese history/CH Exam 0406.md",
+    "3C/Exam/Chem/13.3🧪 物質的分類.md",
+    "3C/Exam/Bio/Bio Exam 0406.md",
+    "3C/Exam/Chinese history",
+    "3C/Exam/Chem/14.5🛢️ 原油與塑料.md",
+    "3C/Exam/Bio",
+    "3C/Exam/Chem/13.4 金屬.md",
+    "3C/未命名.md",
+    "3C/Exam/Chem"
+  ]
+}
